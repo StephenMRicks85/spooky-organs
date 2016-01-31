@@ -1,0 +1,49 @@
+[14:33:40] [main/INFO]: Setting user: Player548
+[14:33:41] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:33:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:spookyorgan
+[14:33:50] [Sound Library Loader/INFO]: Sound engine started
+[14:33:51] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:33:51] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:33:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:spookyorgan
+[14:33:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:33:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:33:56] [Sound Library Loader/INFO]: Sound engine started
+[14:33:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:33:56] [Client thread/ERROR]: @ Post startup
+[14:33:56] [Client thread/ERROR]: 1286: Invalid framebuffer operation
+[14:34:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:34:02] [Server thread/INFO]: Generating keypair
+[14:34:02] [Server thread/INFO]: Converting map!
+[14:34:02] [Server thread/INFO]: Scanning folders...
+[14:34:02] [Server thread/INFO]: Total conversion count is 0
+[14:34:02] [Server thread/WARN]: Unable to find spawn biome
+[14:34:03] [Server thread/INFO]: Preparing start region for level 0
+[14:34:04] [Server thread/INFO]: Preparing spawn area: 21%
+[14:34:05] [Server thread/INFO]: Preparing spawn area: 44%
+[14:34:06] [Server thread/INFO]: Preparing spawn area: 63%
+[14:34:07] [Server thread/INFO]: Preparing spawn area: 86%
+[14:34:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:34:08] [Server thread/INFO]: Player548[local:E:71019772] logged in with entity id 25 at (69.5, 69.0, 48.5)
+[14:34:08] [Server thread/INFO]: Player548 joined the game
+[14:34:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 102 ms
+[14:34:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[14:34:15] [Server thread/INFO]: Player548 has just earned the achievement [Taking Inventory]
+[14:34:15] [Client thread/INFO]: [CHAT] Player548 has just earned the achievement [Taking Inventory]
+[14:34:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[14:34:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
+[14:34:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
+[14:34:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 107 ms
+[14:34:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[14:34:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[14:34:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
+[14:34:52] [Server thread/INFO]: Saving and pausing game...
+[14:34:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:34:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:34:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:34:53] [Server thread/INFO]: Stopping server
+[14:34:53] [Server thread/INFO]: Saving players
+[14:34:53] [Server thread/INFO]: Saving worlds
+[14:34:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:34:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:34:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:36:34] [Client thread/INFO]: Stopping!
